@@ -49,7 +49,7 @@ html{
     position: absolute;
     top: 0;
     right: 0;
-    background: url('https://scontent.fmnl4-5.fna.fbcdn.net/v/t1.18169-9/29695118_987625861386457_4653770212286864634_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEkVzxHvGMdqo2sumpOKqieQqPYETP9U9BCo9gRM_1T0IbnpOuhopOyJraVlEl0PnoMIJznnKKOtcr16GfWEJql&_nc_ohc=JPyQ3kCcKXoAX8WR04q&_nc_ht=scontent.fmnl4-5.fna&oh=fcce8fdd93f57e6624c3ddb93f625b55&oe=619D8248') no-repeat center/cover;
+    background: url('https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/79037593_1445019365647102_3128009181139828736_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGvcSqPu9bOHBScaH5lh7MBDub7O3SoCGgO5vs7dKgIaF4lAPDXFtIxnP4sKMFH9VcDtLok3ZQxA7CbE-99fwgA&_nc_ohc=CABsYjmOMHkAX8s19Mv&_nc_ht=scontent-hkg4-1.xx&oh=00_AT8YYU4K5KO0mlP6scsp0EwqDTfpAUbDfmNNOjseqX1Xkw&oe=6202B904') no-repeat center/cover;
     height: 900px;
     width: 100%;
     z-index: -1;
@@ -109,20 +109,6 @@ html{
 #intro h2{
     font-size: 2rem;
     margin-bottom: 20px;
-}
-
-
-}
-.gallery{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    box-sizing: border-box;
-}
-.gallery img{
-    width: 360;
-    height: 240px;
-    margin: 10px;
 }
 #contact{
     display: flex;
